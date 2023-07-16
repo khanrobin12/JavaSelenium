@@ -1,5 +1,7 @@
 package StringManipulation;
 
+//  take a sentence and change case of each alternate word. 
+
 public class WordProblem14 {
 
 	public static void main(String[] args) {
@@ -18,10 +20,11 @@ public class WordProblem14 {
 			if (ch != ' ') {
 				word = word + ch;
 			} else {
-				count++;
-				if (count % 2 == 0) {
+				// count++;
+				if (count++ % 2 == 0) {
 					nw = nw + word.toUpperCase() + " ";
-
+				} else {
+					nw = nw + word.toLowerCase() + " ";
 				}
 
 				word = "";

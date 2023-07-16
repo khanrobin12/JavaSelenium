@@ -1,6 +1,6 @@
 package StringManipulation;
 
-//Print first character of each word in a sentance. 
+//Print first character of each word in a sentence. 
 
 public class WordProblem2 {
 

@@ -1,6 +1,6 @@
 package StringManipulation;
 
-//print only the word ending with ED in a sentance. 
+//print only the word ending with ED in a sentence. 
 
 public class WordProblem5 {
 
