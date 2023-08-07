@@ -1,5 +1,11 @@
 package StringAtoZ;
 
+// Case 1 : both are final classes. 
+// String is group of characters enclose with double court"". 
+// it is belongs to java.lang package. it is final class. 
+// the default value is string is null. 
+
+// String, StringBuffer, StringBuilder, StringTokenizer class. 
 public class CreatingString {
 
 	public static void main(String[] args) {
