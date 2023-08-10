@@ -49,7 +49,7 @@ public class MathClass {
 		System.out.println(Math.toIntExact(0));
 		System.out.println(Math.toRadians(0));
 		System.out.println(Math.ulp(0));
-		System.out.println(Math.unsignedMultiplyHigh(0, 0));
+		System.out.println(Math.multiplyHigh(0, 0));
 
 	}
 
