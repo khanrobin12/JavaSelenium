@@ -1,4 +1,4 @@
-package StringManipulation2;
+package StringManipulation;
 
 //Print only UpperCase characters of a String & count it
 

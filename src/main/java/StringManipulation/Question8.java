@@ -1,4 +1,4 @@
-package StringManipulation2;
+package StringManipulation;
 
 //print the first UpperCase Character of a String. 
 

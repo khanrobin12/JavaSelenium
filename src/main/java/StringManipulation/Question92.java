@@ -1,4 +1,4 @@
-package StringManipulation2;
+package StringManipulation;
 
 //Create a new string with digits first and then characters. 
 public class Question92 {

@@ -1,4 +1,4 @@
-package StringManipulation2;
+package StringManipulation;
 
 //Print23 only digit from a string78 
 

@@ -1,4 +1,4 @@
-package StringManipulation2;
+package StringManipulation;
 
 // write a program to find if a String is palindrome(mom,dad)
 public class Question96 {

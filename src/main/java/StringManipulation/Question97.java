@@ -1,4 +1,4 @@
-package StringManipulation2;
+package StringManipulation;
 
 // String Encoding Program Piglatin. (eat =(vowel) eat+way, clear =(consonant)e+ends+beginning+ay.(ear+cl+ay) 
 public class Question97 {

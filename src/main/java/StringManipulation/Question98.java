@@ -1,4 +1,4 @@
-package StringManipulation2;
+package StringManipulation;
 
 //Create a word encoding program which moves each letter by 2, e.g a becomes c, b become d. 
 public class Question98 {

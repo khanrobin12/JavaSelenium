@@ -1,4 +1,4 @@
-package StringManipulation2;
+package StringManipulation;
 
 //Print only Sp@ci@l characters of a String#. 
 

@@ -1,4 +1,4 @@
-package StringManipulation2;
+package StringManipulation;
 
 // find the duplicate character of a String. 
 

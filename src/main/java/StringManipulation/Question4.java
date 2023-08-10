@@ -1,4 +1,4 @@
-package StringManipulation2;
+package StringManipulation;
 
 //Print only LowerCase Characters of a String. 
 

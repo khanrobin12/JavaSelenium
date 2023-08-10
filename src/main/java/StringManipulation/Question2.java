@@ -1,4 +1,4 @@
-package StringManipulation2;
+package StringManipulation;
 
 //Print ASCII code of each character of a String 
 

@@ -1,4 +1,4 @@
-package StringManipulation2;
+package StringManipulation;
 
 //Print each character of the String in separate line. 
 

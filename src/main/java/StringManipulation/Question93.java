@@ -1,4 +1,4 @@
-package StringManipulation2;
+package StringManipulation;
 
 // Create a New String After Removing All Spaces In a String.
 public class Question93 {

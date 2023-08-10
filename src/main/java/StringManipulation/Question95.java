@@ -1,4 +1,4 @@
-package StringManipulation2;
+package StringManipulation;
 
 // Write a program to find the reverse of the String. 
 public class Question95 {

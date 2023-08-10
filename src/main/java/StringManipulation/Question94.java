@@ -1,4 +1,4 @@
-package StringManipulation2;
+package StringManipulation;
 
 // Write a Program To Reverse The Case Of a String
 public class Question94 {

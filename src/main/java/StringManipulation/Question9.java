@@ -1,4 +1,4 @@
-package StringManipulation2;
+package StringManipulation;
 
 //Count a certain character of a String or vowel. 
 public class Question9 {
