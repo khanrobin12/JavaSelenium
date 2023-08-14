@@ -1,7 +1,6 @@
 package StringManipulation;
 
 //Print only Sp@ci@l characters of a String#. 
-
 public class Question7 {
 
 	public static void main(String[] args) {

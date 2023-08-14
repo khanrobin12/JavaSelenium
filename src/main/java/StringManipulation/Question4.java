@@ -1,7 +1,6 @@
 package StringManipulation;
 
 //Print only LowerCase Characters of a String. 
-
 public class Question4 {
 
 	public static void main(String[] args) {

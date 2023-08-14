@@ -1,7 +1,6 @@
 package StringManipulation;
 
 //Print23 only digit from a string78 
-
 public class Question6 {
 
 	public static void main(String[] args) {

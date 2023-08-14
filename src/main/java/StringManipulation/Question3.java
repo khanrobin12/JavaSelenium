@@ -1,7 +1,6 @@
 package StringManipulation;
 
 //Print only UpperCase characters of a String & count it
-
 public class Question3 {
 
 	public static void main(String[] args) {

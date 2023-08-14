@@ -1,7 +1,6 @@
 package StringManipulation;
 
 //print the first UpperCase Character of a String. 
-
 public class Question8 {
 
 	public static void main(String[] args) {
